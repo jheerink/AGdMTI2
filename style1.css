@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    margin: auto;
+    width: 80%;
+}
+
+
+#imageInput, #imageInputLabel {
+    display: block;
+}
+
+.image-upload-box {
+    width: 100%;
+    border: 1px solid #ddd;
+    padding: 20px;
+    position: relative;
+    height: auto; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    max-width: 100%;
+    max-height: 100%;
+    display: none; /*muss erst none dann block sein?*/
+}
+
+.buttons button {
+    display: block;
+    margin: 10px auto;
+}
