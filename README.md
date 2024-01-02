@@ -1,6 +1,21 @@
 # AGdMTI2
-Bildbearbeitungsprogramm browser
+Web-Bildbearbeitungsprogramm 
 
 
-schreib mal iwas hier wenns klappt
+DONE
+---------------
+Bild hochladen
 
+hochgeladenes Bild anzeigen (+vorgenommene Veränderungen zeigen)
+
+Knopf für schwarz weiß
+
+bearbeitetes Bild herunterladen
+
+
+
+
+TODO
+-----------------
+
+Rest idk
