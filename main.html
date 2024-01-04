@@ -7,6 +7,8 @@
 	
     <link rel="stylesheet" href="styles/style1.css">
 </head>
+
+
 <body>
     <div id="imageUploadBox" class="image-upload-box">
 		<label for="imageInput" id="imageInputLabel"></label>
@@ -15,14 +17,46 @@
 	</div>
 		
 	<div class="buttons">
-		<button id="bwButton">In Schwarzweiß umwandeln</button>
+	
+		<button id="restoreOriginalButton">Originalbild wiederherstellen</button>
+	
+		<button id="bwButton">In Grauwertbild umwandeln</button>
+		
+		<label for="thresholdSlider">Schwarz-Weiß Schwellenwert: </label>
+		<input type="range" id="thresholdSlider" min="0" max="255" value="128" step="1">
+		
 		<button id="brightenButton">Aufhellen</button>
+		
 		<button id="darkenButton">Abdunkeln</button>
+		
+		<div>
+			<label for="redSlider">Rot:</label>
+			<input type="range" id="redSlider" min="0" max="255" value="128">
+		</div>
+		<div>
+			<label for="greenSlider">Grün:</label>
+			<input type="range" id="greenSlider" min="0" max="255" value="128">
+		</div>
+		<div>
+			<label for="blueSlider">Blau:</label>
+			<input type="range" id="blueSlider" min="0" max="255" value="128">
+		</div>
+		
+		<button onclick="makeNegative()">Bild negativieren</button>
+		
+		<button id="rotateCwButton">90° im Uhrzeigersinn drehen</button>
+		<button id="rotateCcwButton">90° gegen den Uhrzeigersinn drehen</button>
+		
+		<button id="horizontalMirrorButton">Horizontal spiegeln</button>
+		<button id="verticalMirrorButton">Vertikal spiegeln</button>
+		
 		<button id="downloadButton">Bild herunterladen</button>
 	</div>
     
 
     <script src="script1.js"></script>
 </body>
+
 </html>
+
 
