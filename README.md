@@ -1,7 +1,7 @@
 # AGdMTI2
 Web-Bildbearbeitungsprogramm 
 
-mind. 20 Punkte
+Stand: mind. 20 Punkte
 
 DONE
 ---------------
