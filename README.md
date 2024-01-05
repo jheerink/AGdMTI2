@@ -35,7 +35,7 @@ TODO
 
 
 
-!4. Kontrast des Bildes um einen einstellbaren Wert erhöhen bzw. erniedrigen. (3 Pkt.)
+
 
 
 !7. Rotation um 90° im und gegen den Uhrzeigersinn (5 Pkt.)
