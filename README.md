@@ -23,15 +23,17 @@ negativ 2
 
 spiegeln 4
 
-rotation (funktioniert nicht richtig + funktion rotate nicht erlaubt) (5)
+rotation (funktioniert nicht richtig + funktion rotate nicht erlaubt  + wenn og knopf alles gebumst) (5)
 
 zu OG zurücksetzen 3
+
+Kontrast 3
 
 
 TODO
 -----------------
 
-!2. Umwandlung in ein Schwarz-Weiß-Bild, der Schwellwert ist einstellbar zu halten. (3 Pkt.)
+
 
 !4. Kontrast des Bildes um einen einstellbaren Wert erhöhen bzw. erniedrigen. (3 Pkt.)
 
