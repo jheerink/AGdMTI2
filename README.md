@@ -1,15 +1,15 @@
 # AGdMTI2
 Web-Bildbearbeitungsprogramm 
 
-Stand: mind. 30
+Stand: mind. 35
 
 DONE
 ---------------
-Bild hochladen
+Bild hochladen 2
 
 hochgeladenes Bild anzeigen (+vorgenommene Veränderungen zeigen)
 
-bearbeitetes Bild herunterladen
+bearbeitetes Bild herunterladen 2
 
 grauwert 1
 
@@ -23,13 +23,15 @@ negativ 2
 
 spiegeln 4
 
-rotation (funktioniert nicht richtig + funktion rotate nicht erlaubt  + wenn og knopf alles gebumst) (5)
+rotation (funktioniert nicht richtig + funktion rotate nicht erlaubt) (5)
 
 zu OG zurücksetzen 3
 
 Kontrast 3
 
 Skalierung 4
+
+darkmode 1
 
 
 TODO
@@ -40,7 +42,7 @@ TODO
 
 
 
-!7. Rotation um 90° im und gegen den Uhrzeigersinn (5 Pkt.)
+!7. Rotation um 90° im und gegen den Uhrzeigersinn (5 Pkt.) nicht richtig
 
 !9. Skalierung um die Faktoren 2 und 0.5
 !9.1. ohne Glättung (4 Pkt.) DONE
